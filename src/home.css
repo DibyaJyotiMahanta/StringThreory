@@ -1,0 +1,259 @@
+* {
+  background-color: #0e0e0e;
+}
+
+.pointer {
+  position: relative;
+  top: 100px;
+  color: #8b8b8b;
+}
+
+.mainOverallContent {
+  padding: 0 40px;
+}
+.mainContent {
+  padding: 0 80px 0 80px;
+}
+
+.mainText {
+  background-color: transparent;
+  position: relative;
+  color: white;
+  font-size: 300px;
+  font-family: Bayformance;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+#mainTextOne {
+  left: 50px;
+  top: 125px;
+}
+
+#mainTextTwo {
+  bottom: 100px;
+}
+
+.mainBox {
+  position: relative;
+  bottom: 800px;
+  left: 720px;
+}
+
+.mainBoxComponent {
+  position: absolute;
+  background: #d9d9d9;
+}
+.sideBox {
+  width: 152px;
+  height: 172px;
+  border-radius: 10px;
+}
+.middleBox {
+  width: 220px;
+  height: 360px;
+  left: 168px;
+  top: 0px;
+  border-radius: 6px;
+}
+.upperLeftBox {
+  left: 0px;
+  top: 0px;
+}
+.lowerLeftBox {
+  left: 0px;
+  top: 187px;
+}
+.upperRightBox {
+  left: 405px;
+  top: 0px;
+}
+.lowerRightBox {
+  left: 405px;
+  top: 187px;
+}
+
+.homeCard {
+  position: relative;
+  bottom: 420px;
+  left: 945px;
+  width: 26%;
+  height: 13rem;
+  flex-shrink: 0;
+  border-color: #0e0e0e;
+  border-radius: 1.75rem;
+  background: linear-gradient(
+    360deg,
+    #000 0%,
+    #0b0b0b 28.26%,
+    #1b1b1b 64.54%,
+    #1d1d1d 99.14%,
+    rgba(52, 52, 52, 0.76) 99.99%,
+    rgba(255, 254, 254, 0) 100%
+  );
+}
+.homeCard2 {
+  position: relative;
+  background: transparent;
+}
+.statusBoxLine {
+  position: absolute;
+  bottom: 90px;
+  background: transparent;
+  color: white;
+  font-size: 110%;
+  font-family: "Gotham";
+  font-weight: 400;
+  line-height: 26.11px;
+  word-wrap: break-word;
+  line-height: 1;
+}
+.statusBoxHashtag {
+  position: absolute;
+  top: 25px;
+  color: white;
+  background-color: transparent;
+  font-size: 13.5px;
+  font-family: "Gotham";
+  font-weight: 300;
+  line-height: 24.04px;
+  word-wrap: break-word;
+}
+
+.buttonAccompany {
+  position: absolute;
+  height: 20% !important;
+  width: 95%;
+  left: 8px;
+  bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border-radius: 50px;
+  height: 50px;
+  justify-content: center;
+}
+.buttonPrompt {
+  justify-content: center;
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  background-color: transparent;
+  font-family: "gotham";
+  font-size: 125%;
+  font-weight: 1000;
+  color: black;
+}
+
+.button {
+  position: absolute;
+  height: 2.3rem;
+  width: 2.3rem;
+  bottom: 0.15rem;
+  right: 0.2rem;
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+  border-color: black;
+}
+
+.strip {
+  background-color: #1b1b1b;
+  width: 1920px;
+  height: 58px;
+  position: relative;
+  bottom: 23rem;
+}
+.stripWords {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  color: white;
+  font-size: 27px;
+  font-family: "Bayformance";
+  font-weight: 400;
+  line-height: 36.06px;
+  word-wrap: break-word;
+}
+.one {
+  left: 30px;
+  top: 8px;
+}
+.two {
+  left: 215px;
+  top: 11px;
+}
+.three {
+  left: 242px;
+  top: 8px;
+}
+.four {
+  left: 427px;
+  top: 11px;
+}
+.five {
+  left: 454px;
+  top: 8px;
+}
+.six {
+  left: 639px;
+  top: 11px;
+}
+.seven {
+  left: 666px;
+  top: 8px;
+}
+.eight {
+  left: 851px;
+  top: 11px;
+}
+.nine {
+  left: 878px;
+  top: 8px;
+}
+.ten {
+  left: 1063px;
+  top: 11px;
+}
+.eleven {
+  left: 1090px;
+  top: 8px;
+}
+.twelve {
+  left: 1275px;
+  top: 11px;
+}
+.thirteen {
+  left: 1302px;
+  top: 8px;
+}
+.fourteen {
+  left: 1487px;
+  top: 11px;
+}
+.fifteen {
+  left: 1514px;
+  top: 8px;
+}
+.sixteen {
+  left: 1699px;
+  top: 11px;
+}
+.seventeen {
+  left: 1726px;
+  top: 8px;
+}
+
+#tagLine {
+  line-height: 1 !important;
+  position: absolute;
+  top: 210px;
+  left: 11%;
+  background-color: transparent;
+  color: white;
+  font-size: 20px;
+  font-family: Gotham;
+  font-weight: 300;
+  line-height: 28.48px;
+  word-wrap: break-word;
+}

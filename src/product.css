@@ -1,0 +1,178 @@
+* {
+  background-color: #0e0e0e;
+}
+
+.productWindow {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+
+.pointer {
+  color: #8b8b8b;
+}
+
+.content {
+  position: relative;
+  top: 5rem;
+}
+
+.offerCards {
+  position: relative;
+  left: -2.3rem;
+}
+
+.offerPart {
+  position: relative;
+  top: 5rem;
+  left: 3rem;
+}
+
+.offers {
+  color: white;
+  font-size: 2.5rem;
+  font-family: Bayformance;
+  font-weight: 400;
+  line-height: 38.56px;
+  word-wrap: break-word;
+}
+
+.offerPlace {
+  margin: 1.5rem 0 0 1.5rem;
+  width: 175px;
+  height: 100px;
+  background: #d9d9d9;
+  border-radius: 10px;
+}
+
+.product {
+  position: relative;
+  top: -28rem;
+  background-color: transparent;
+}
+
+.heading {
+  position: relative;
+  left: 20rem;
+  color: white;
+  font-size: 8rem;
+  font-family: Bayformance;
+  font-weight: 400;
+  line-height: 6.5rem;
+  word-wrap: break-word;
+}
+
+.viewCartButton {
+  background-color: transparent;
+  position: relative;
+  top: -2.5rem;
+  left: 50%;
+}
+
+.buttonAccompany {
+  justify-content: center;
+  position: relative;
+  height: 6% !important;
+  width: 24.5%;
+  left: 60%;
+  bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border-radius: 50px;
+  height: 50px;
+}
+
+.buttonPrompt {
+  position: relative;
+  top: 0.5rem;
+  right: 3.5rem;
+  background-color: transparent;
+  font-family: gotham;
+  font-size: 125%;
+  font-weight: 1000;
+  color: black;
+}
+
+.button {
+  position: absolute;
+  height: 2.3rem;
+  width: 2.3rem;
+  bottom: 0.3rem;
+  left: 13.2rem;
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+  border-color: black;
+}
+
+.cardCourosel {
+  background-color: transparent;
+  position: relative;
+  left: 21%;
+  margin-top: -2%;
+  display: flex;
+  flex-direction: row;
+}
+
+.productCard {
+  position: relative;
+  margin: 0 10.6% 0 10.6%;
+  background-color: transparent;
+  border-radius: 10%;
+  width: 13rem;
+}
+
+.img {
+  border-radius: 5%;
+  height: 17rem;
+  width: 13rem;
+  background-color: #ffff;
+}
+
+.card-text {
+  position: relative;
+  width: 11rem;
+  margin: -0.3rem 0 0 -1rem;
+  color: #fff;
+  font-family: Gotham Black;
+  font-size: 120%;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 70%; /* 0px */
+  letter-spacing: 200%;
+}
+
+.priceBracket {
+  display: flex;
+  flex-direction: row;
+}
+
+.price {
+  color: #fff;
+  margin: 0 0 0 -16px;
+  font-weight: 400;
+  font-family: Gotham;
+}
+.fakePrice {
+  position: relative;
+  top: 0.3rem;
+  left: 1.5rem;
+}
+
+.cutPrice {
+  font-style: italic;
+  color: #a7a7a7;
+  position: relative;
+  font-weight: 100;
+  font-size: 70%;
+}
+
+.cut {
+  right: -15%;
+  top: 30%;
+  position: absolute;
+  width: 300%;
+  height: 1%;
+  background-color: #8b8b8b;
+}
